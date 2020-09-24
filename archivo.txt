@@ -1,8 +1,9 @@
-yhdfgaubhisnd
-aqfdwsginwsg
-fksahbighdaisjlj
-sdegdusaihbj
-gdgsaj
-HOLAAAAAAAAAAAAAAAAAA
-ksndfksnfnn3q
-oqso
+if(tu_hermana == buena)
+hoysale = true
+else
+hoysale = false
+if(hoysale == true)
+echo "Menuda suerte chaval"
+else
+echo "Vaya hostiada!"
+echo "La proxima quizas sea de tu agrado"
