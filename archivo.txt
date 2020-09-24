@@ -2,3 +2,7 @@ if(tu_hermana == buena)
 hoysale = true
 else
 hoysale = false
+if(hoysale == true)
+echo "Menuda suerte chaval"
+else
+echo "Vaya hostiada!"
