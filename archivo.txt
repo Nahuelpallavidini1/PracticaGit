@@ -7,3 +7,4 @@ echo "Menuda suerte chaval"
 else
 echo "Vaya hostiada!"
 echo "La proxima quizas sea de tu agrado"
+echo "................"
